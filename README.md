@@ -1,0 +1,2 @@
+# InstantEnum
+Enumeration Script
