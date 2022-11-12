@@ -1,5 +1,3 @@
-# InstantEnum
+# Nmapper
 Enumeration Script
-Runs through nmap nse scripts to attempt to enumerate an ip, uses web enumeration tools such as Anubis to attempt to enumerate a web server.
-
-Multiple modes: ip scan, web scan
+Have you ever tried to run through the nmap NSE scripts just to find pages and pages of them? well this script makes it easy by consolidating many important scripts into one script you just have to run once.
